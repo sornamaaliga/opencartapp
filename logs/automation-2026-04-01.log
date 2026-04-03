@@ -1,0 +1,51 @@
+16:31:27.181 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:31:27.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:31:27.245 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.276 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:31:27.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:31:27.280 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.302 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:31:27.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:31:27.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:31:27.327 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:31:27.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:31:27.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:31:27.349 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:31:27.384 [main] INFO  testcases.TC003_LoginDDT - ***start the login testing***
+16:31:28.181 [main] INFO  testcases.TC003_LoginDDT - ***Intiated Login***
+16:31:38.754 [main] INFO  testcases.TC003_LoginDDT - ***start the login testing***
+16:31:39.222 [main] INFO  testcases.TC003_LoginDDT - ***Intiated Login***
+16:31:49.456 [main] INFO  testcases.TC003_LoginDDT - ***start the login testing***
+16:31:49.863 [main] INFO  testcases.TC003_LoginDDT - ***Intiated Login***
+16:32:00.973 [main] INFO  testcases.TC003_LoginDDT - ***start the login testing***
+16:32:03.584 [main] INFO  testcases.TC003_LoginDDT - ***Intiated Login***
+16:32:07.005 [main] INFO  testcases.TC003_LoginDDT - ***start the login testing***
+16:32:07.382 [main] INFO  testcases.TC003_LoginDDT - ***Intiated Login***
+16:35:02.162 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\testng.xml"
+16:35:02.438 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\testng.xml
+
+16:35:06.386 [main] INFO  testcases.TC002_LoginPage - ***start the login testing***
+16:35:07.478 [main] INFO  testcases.TC002_LoginPage - ***Intiated Login***
+23:37:48.079 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\testng.xml"
+23:37:48.334 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\testng.xml
+
+23:37:48.674 [main] INFO  testcases.TC002_LoginPage - ***start the login testing***
+23:37:48.704 [main] ERROR testcases.TC002_LoginPage - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+23:43:50.051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\testng.xml"
+23:43:50.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\testng.xml
+
+23:43:50.577 [main] INFO  testcases.TC002_LoginPage - ***start the login testing***
+23:43:50.606 [main] ERROR testcases.TC002_LoginPage - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+23:45:17.402 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\testng.xml"
+23:45:17.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\testng.xml
+
+23:45:18.057 [main] INFO  testcases.TC002_LoginPage - ***start the login testing***
+23:45:18.082 [main] ERROR testcases.TC002_LoginPage - Test failed due to an exception: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+23:46:47.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\testng.xml"
