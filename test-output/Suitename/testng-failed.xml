@@ -10,11 +10,18 @@
     <classes>
       <class name="testcases.TC003_LoginDDT">
         <methods>
-          <include name="verify_loginDDT" invocation-numbers="3 4"/>
+          <include name="verify_loginDDT"/>
           <include name="teardown"/>
           <include name="setup"/>
         </methods>
       </class> <!-- testcases.TC003_LoginDDT -->
+      <class name="testcases.TC002_LoginPage">
+        <methods>
+          <include name="teardown"/>
+          <include name="verify_login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.TC002_LoginPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suitename] -->
