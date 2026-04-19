@@ -2,13 +2,12 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 <groups>
-<run>
-<include name="sanity"></include>
-
-</run>
+   <run>
+      <include name="sanity"></include>
+   </run>
 </groups>
 <listeners>
-  <listener class-name="utilities.ExtendReportManager"></listener>
+    <listener class-name="utilities.ExtendReportManager"></listener>
  </listeners>
 
   <test thread-count="5" name="Test">

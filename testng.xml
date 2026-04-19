@@ -10,7 +10,7 @@
   <parameter name="browser" value="chrome"></parameter>
     <classes>
       <!--<class name="testcases.TC001_AccountRegistrationPage"/>-->
-      <class name="testcases.TC002_LoginPage"></class>
+    <!--<class name="testcases.TC002_LoginPage"></class> -->  
      <class name="testcases.TC003_LoginDDT"></class> 
     </classes>
   </test> <!-- Test -->

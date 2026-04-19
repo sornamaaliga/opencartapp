@@ -6,7 +6,7 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
-    <parameter name="browser" value="edge"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
       <class name="testcases.TC003_LoginDDT">
         <methods>
@@ -15,13 +15,6 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testcases.TC003_LoginDDT -->
-      <class name="testcases.TC002_LoginPage">
-        <methods>
-          <include name="teardown"/>
-          <include name="verify_login"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testcases.TC002_LoginPage -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suitename] -->

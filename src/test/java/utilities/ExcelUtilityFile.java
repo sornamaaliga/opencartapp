@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
 import org.apache.poi.ss.usermodel.CellStyle;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.FillPatternType;
@@ -22,10 +21,10 @@ public class ExcelUtilityFile {
 	public static XSSFRow row;
 	public static XSSFCell cell;
 	public static CellStyle style;
-	String path;
+	static String path;
 	
 	public ExcelUtilityFile(String path) {
-		this.path=path;
+		ExcelUtilityFile.path=path;
 	}
 	
 	public int getRowcount(String sheetName) throws IOException {
@@ -75,7 +74,7 @@ public class ExcelUtilityFile {
 		return data;
 		}
 	
-	public void setcellData(String sheetName, int rownum, int colnum, String data) throws IOException {
+	public static  void setcellData(String sheetName, int rownum, int colnum, String data) throws IOException {
 		File xlfile=new File(path);
 		if(!xlfile.exists()) // If file not exists then create a new file
 		{
@@ -86,8 +85,8 @@ public class ExcelUtilityFile {
 		fi=new FileInputStream(path);
 		workbook=new XSSFWorkbook(fi);
 		
-		if(workbook.getSheetIndex(sheetName)==-1)//If sheet not exists then create new sheet
-		workbook.createSheet(sheetName);
+		if(workbook.getSheetIndex(sheetName)==-1)//If sheet not exists then create new shee
+			workbook.createSheet(sheetName);
 		sheet=workbook.getSheet(sheetName);
 		
 		if(sheet.getRow(rownum)==null) sheet.createRow(rownum);//if row does not exist then create new row

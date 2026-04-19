@@ -91,10 +91,10 @@ public class Baseclass {
 		driver.get(pro.getProperty("appUrl"));
 		driver.manage().window().maximize();
 	}
-	@AfterClass(groups= {"sanity","Regression","Master","Dataprovider"})
-	public void teardown() {
-		driver.quit();
-	}
+//	@AfterClass(groups= {"sanity","Regression","Master","Dataprovider"})
+//	public void teardown() {
+//		driver.quit();
+//	}
 	public String randomestrString() {
 		String ran=RandomStringUtils.randomAlphabetic(6);
 		return ran;

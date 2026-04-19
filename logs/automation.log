@@ -1,6 +1,56 @@
-16:04:16.748 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-16:04:16.758 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-16:04:16.772 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-16:04:16.773 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-16:04:16.774 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-16:04:16.785 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:38:33.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.484 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.495 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-2074572520\testng-customsuite.xml
+
+20:38:33.537 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+20:38:33.819 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@793138bd: 122 ms
+20:38:33.850 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5b1f29fa: 30 ms
+20:38:33.894 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@476b0ae6: 44 ms
+20:38:33.919 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77a98a6a: 24 ms
+20:38:33.932 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5bc9ba1d: 13 ms
+20:38:33.932 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1021f6c9: 0 ms
+20:38:48.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:38:48.685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+21:09:13.418 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+21:09:14.046 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+21:10:14.173 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+21:10:14.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+21:40:20.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+21:40:20.531 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+21:40:43.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+21:40:43.745 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+21:42:30.279 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+21:42:30.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+18:41:20.610 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+18:41:20.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+18:42:36.121 [main] INFO  testcases.TC004_Search_content - ***Intiated Login***
+18:42:38.971 [main] INFO  testcases.TC004_Search_content - ***Intiated Search***

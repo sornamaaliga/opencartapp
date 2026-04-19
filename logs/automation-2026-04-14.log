@@ -1,0 +1,65 @@
+20:19:55.868 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:19:56.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:20:14.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:20:14.376 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:20:40.286 [main] ERROR org.testng.reporters.jq.Main - C:\Users\user\project\opencartapp\test-output\jquery-3.6.0.min.js
+java.nio.file.FileAlreadyExistsException: C:\Users\user\project\opencartapp\test-output\jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:87)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)
+	at java.base/java.nio.file.spi.FileSystemProvider.newOutputStream(FileSystemProvider.java:482)
+	at java.base/java.nio.file.Files.newOutputStream(Files.java:227)
+	at java.base/java.nio.file.Files.copy(Files.java:3140)
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95)
+	at org.testng.TestNG.generateReports(TestNG.java:1160)
+	at org.testng.TestNG.run(TestNG.java:1085)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+20:21:04.999 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:21:05.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:25:53.890 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:25:54.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:28:42.831 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:28:43.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:28:48.778 [main] INFO  testcases.TC004_Search_content - ***Intiated Login***
+20:28:50.378 [main] INFO  testcases.TC004_Search_content - ***Intiated Search***
+20:32:28.987 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:32:34.623 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:32:34.980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:33:24.090 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:33:24.502 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:36:33.831 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\project\opencartapp\search.xml"
+20:36:34.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\project\opencartapp\search.xml
+
+20:38:32.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse-2074572520\testng-customsuite.xml"
+20:38:33.427 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:38:33.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+20:38:33.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.433 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.434 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.447 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+20:38:33.465 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+20:38:33.466 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.466 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:38:33.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:38:33.467 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
